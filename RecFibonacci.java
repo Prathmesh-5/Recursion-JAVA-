@@ -19,3 +19,13 @@ public class RecFibonacci {
           sc.close();
      }
 }
+
+/*
+OUTPUT: 🚩
+
+Enter n: 
+6
+The 6th wala fibnocci number hai : 5
+
+Process finished with exit code 0
+*/

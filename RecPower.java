@@ -1,4 +1,5 @@
 // Given two numbers p and q , find the value of p^q using recursive function:
+// Time Complexity = O(q)
 
 package Recursion;
 import java.util.Scanner;

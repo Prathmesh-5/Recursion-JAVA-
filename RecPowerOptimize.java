@@ -1,5 +1,6 @@
 // OPTIMIZE SOLUTION
 // Write a program to find p^q using Recursive Function 
+// Time Complexity = O(q)
 
 package Recursion;
 import java.util.Scanner;
